@@ -32,3 +32,7 @@ function removeLastKitten() {
   return kittens.slice(0, kittens.length-1)
 }
 
+// Remove first value from array
+function removeFirstKitten() {
+  
+}
