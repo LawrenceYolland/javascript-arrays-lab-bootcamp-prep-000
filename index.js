@@ -28,5 +28,7 @@ function prependKitten(name) {
   return newArray.concat(kittens)
 }
 // Remove last value from array
-function 
+function removeLastKitten() {
+  
+}
 
